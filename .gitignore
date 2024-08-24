@@ -1,0 +1,43 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment directories
+venv/
+.env/
+env/
+*.egg-info/
+.eggs/
+
+# Flask specific
+instance/
+*.log
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment variable files
+.env
+.env.*
+
+# Coverage reports
+.coverage
+*.cover
+*.py,cover
+nosetests.xml
+coverage.xml
+*.log
+
+# Miscellaneous
+*.swp
+*.swo
