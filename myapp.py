@@ -1,3 +1,5 @@
+import utils.transport
+import utils.session
 from flask import Flask, jsonify, redirect, url_for
 import requests
 from bs4 import BeautifulSoup
